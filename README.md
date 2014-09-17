@@ -31,6 +31,6 @@ Effect like QQ 5.0 and add an explosion animation.
 
 
 ## License
-Copyright (c) 2014 [Dean Ding](http://dk-exp.com)
+Copyright (c) 2014 [Dean Ding](http://weibo.com/kongnan)
 
 Licensed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
